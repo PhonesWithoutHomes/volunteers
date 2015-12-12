@@ -3,5 +3,7 @@
 
 > People that have helped. No one is paid, only helpful.
 
-[Karan Sakhuja](http://kevify.com/)
-[Edward Hotchkiss](http://forsurerad.com/)
+| Name                 | URL                  |
+| -------------------- |:--------------------:|
+| Karan Sakhuja        | [Kevify.com](http://kevify.com/) |
+| Edward Hotchkiss     | [forsurerad.com](http://forsurerad.com/) |
