@@ -7,4 +7,4 @@
 | -------------------- |:--------------------:|
 | Karan Sakhuja        | [Kevify.com](http://kevify.com/) |
 | Edward Hotchkiss     | [forsurerad.com](http://forsurerad.com/) |
-| HAMMAR AND HJARTA    | [http://www.hammarandhjarta.com/](http://www.hammarandhjarta.com/) |
+| HAMMAR AND HJARTA    | [hammarandhjarta.com](hammarandhjarta.com/) |
